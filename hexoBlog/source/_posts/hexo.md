@@ -5,6 +5,9 @@ tags: 博客
 categories: 博客
 ---
 
+hexo 博客搭建
+<!-- more -->
+
 
 ### 一、安装hexo
 
